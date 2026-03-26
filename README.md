@@ -6,7 +6,7 @@ A Machine Learning-based web application that predicts the price of laptops base
 
 ## 🚀 Live Demo
 
-👉 [Click Here to View App](https://laptopprice-prediction-abhay.streamlit.app/)
+👉 https://laptopprice-prediction-abhay.streamlit.app/
 
 ---
 
@@ -34,11 +34,10 @@ A Machine Learning-based web application that predicts the price of laptops base
 ---
 ## 📂 Project Structure
  laptop-price-predictor/
-│
-├── app.py              
-├── pipe.pkl           
-├── df.pkl              
-├── requirements.txt 
+          ├── app.py              
+            ├── pipe.pkl           
+             ├── df.pkl              
+              ├── requirements.txt 
 
 ---
 ##⚙️ Installation & Setup
@@ -53,7 +52,7 @@ A Machine Learning-based web application that predicts the price of laptops base
   - Data is processed and transformed
   - Trained ML model predicts the price
   - Result is displayed instantly
-    
+---    
 ## 📊 Dataset
 -  Contains laptop specifications and prices
 - Includes features like:
@@ -63,10 +62,21 @@ A Machine Learning-based web application that predicts the price of laptops base
         - Processor
         - GPU
         - Storage
+---
 ## 🎯 Future Improvements
 - Add more features (battery, display quality, etc.)
 - Improve model accuracy
 - Add visualization dashboard
 - Deploy with custom domain
+---
 
-## 📸 Screenshots 
+## 📸 Screenshots
+
+![App Screenshot](demo.png)
+
+---
+## 🙌 Author
+Abhay Ojha
+---
+## ⭐ Support
+If you like this project, please ⭐ the repository!
