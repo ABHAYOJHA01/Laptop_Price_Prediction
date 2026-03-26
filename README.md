@@ -25,3 +25,48 @@ A Machine Learning-based web application that predicts the price of laptops base
 - ⚡ Fast and accurate predictions  
 
 ---
+## 🧠 Tech Stack
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Streamlit
+---
+## 📂 Project Structure
+ laptop-price-predictor/
+│
+├── app.py              
+├── pipe.pkl           
+├── df.pkl              
+├── requirements.txt 
+
+---
+##⚙️ Installation & Setup
+   - 1️⃣ Clone the repository
+   - 2️⃣ Install dependencies
+           -pip install -r requirements.txt
+   - 3️⃣ Run the app
+            - streamlit run app.py
+---
+## ⚙️ How It Works
+  - User inputs laptop specifications
+  - Data is processed and transformed
+  - Trained ML model predicts the price
+  - Result is displayed instantly
+    
+## 📊 Dataset
+-  Contains laptop specifications and prices
+- Includes features like:
+        - Company
+        - RAM
+        - Weight
+        - Processor
+        - GPU
+        - Storage
+## 🎯 Future Improvements
+- Add more features (battery, display quality, etc.)
+- Improve model accuracy
+- Add visualization dashboard
+- Deploy with custom domain
+
+## 📸 Screenshots 
